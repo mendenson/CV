@@ -1,0 +1,23 @@
+body {
+    background-color: #F9F9F9;
+}
+
+hr { 
+    width: 10%;
+    border: 5px dotted;
+    border-style: none none dotted;
+    color: #97C4B8;
+}
+
+h1 {
+    color: #4B8673;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2 {
+    color: #4B8673;
+}
+
+h4 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
