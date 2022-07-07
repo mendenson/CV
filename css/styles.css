@@ -1,23 +1,32 @@
 body {
-    background-color: #F9F9F9;
+    margin: 0;
 }
 
-hr { 
-    width: 10%;
-    border: 5px dotted;
-    border-style: none none dotted;
-    color: #97C4B8;
+h1{
+    margin: center;
 }
 
-h1 {
-    color: #4B8673;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+.top-container {
+    background-color: #DAF7A6;
+    
+    
 }
 
-h2 {
-    color: #4B8673;
+.middle-container {
+    background-color: #FFC300;
+    width: 200px;
+    height: 200px;
+    
 }
 
-h4 {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+.botton-container {
+    align-self: center;
+    background-color: #FF5733;
+    width: 200px;
+    height: 200px;
+    
+}
+
+div{
+    border-color: black;
 }
